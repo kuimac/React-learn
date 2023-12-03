@@ -1,0 +1,8 @@
+- TypeScript の環境構築
+  - vite でプロジェクトを作成する
+  - GitHub に push する
+- 整形と構文チェックを自動で行うツールを導入してください
+- GitHubAction の設定
+- Vercel へのデプロイ
+- Firebase との連携
+- ユーザー認証機能の作成
